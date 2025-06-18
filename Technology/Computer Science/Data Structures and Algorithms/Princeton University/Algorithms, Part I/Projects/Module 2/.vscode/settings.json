@@ -1,9 +1,0 @@
-{
-    "java.project.sourcePaths": [
-        "src"
-    ],
-    "java.project.referencedLibraries": [
-        "c:\\Users\\admin\\OneDrive\\Cursos\\Princeton University - Algorithms\\Algorithms, Part I\\Projects\\algs4.jar",
-        "c:\\Users\\admin\\OneDrive\\Cursos\\Princeton University - Algorithms\\Algorithms, Part I\\Projects\\Module 2\\lib\\junit-platform-console-standalone-1.13.0-M3.jar"
-    ]
-}
