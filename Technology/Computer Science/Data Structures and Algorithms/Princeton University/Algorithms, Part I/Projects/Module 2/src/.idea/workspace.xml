@@ -34,9 +34,9 @@
   <component name="OptimizeOnSaveOptions">
     <option name="myRunOnSave" value="true" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectFrameBounds">
     <option name="x" value="106" />
     <option name="y" value="23" />
@@ -80,6 +80,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/admin/OneDrive/Knowledge/Technology/Computer Science/Data Structures and Algorithms/Princeton University/Algorithms, Part I/Projects/Module 2/src"
   }
 }]]></component>
